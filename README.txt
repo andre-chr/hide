@@ -1,6 +1,6 @@
-=========================
+
 Hide/Unhide
-=========================
+
 
 This folder contains 2 programs, hide and unhide. The functionalities are as follows:
 	- hide.c: Encodes a message in a picture in ppm format from the input file to the specified output file. Hide also has extra 
